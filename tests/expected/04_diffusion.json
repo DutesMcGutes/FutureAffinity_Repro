@@ -1,0 +1,11 @@
+{
+  "first_atom_single_rounded": [
+    -0.9594,
+    2.3776,
+    1.09
+  ],
+  "max_uncertainty_rounded": 0.0423,
+  "mean_uncertainty_rounded": 0.0423,
+  "num_atoms": 257,
+  "num_ensemble_samples": 5
+}

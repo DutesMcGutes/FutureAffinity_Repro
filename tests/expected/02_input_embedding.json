@@ -1,0 +1,28 @@
+{
+  "embed_dim": 8,
+  "first_protein_token_embedding_rounded": [
+    0.7493,
+    0.6858,
+    1.3345,
+    -0.9777,
+    0.8242,
+    1.5164,
+    -0.2334,
+    0.4715
+  ],
+  "last_ligand_token_embedding_rounded": [
+    0.9986,
+    1.8511,
+    1.9247,
+    0.8919,
+    0.1871,
+    0.461,
+    -0.9101,
+    0.0245
+  ],
+  "num_tokens": 74,
+  "pair_embedding_shape": [
+    74,
+    74
+  ]
+}

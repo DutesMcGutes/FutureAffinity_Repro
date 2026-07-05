@@ -1,0 +1,14 @@
+{
+  "first_ligand_token": {
+    "element": "C",
+    "residue_name": "LIG"
+  },
+  "first_protein_token": {
+    "chain_id": "A",
+    "residue_name": "LYS"
+  },
+  "num_atoms": 257,
+  "num_ligand_tokens": 13,
+  "num_protein_tokens": 61,
+  "num_tokens": 74
+}

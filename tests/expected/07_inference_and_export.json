@@ -1,0 +1,11 @@
+{
+  "affinity_rounded": 6.9201,
+  "mean_lddt_rounded": 100.0,
+  "mean_uncertainty_rounded": 0.0244,
+  "mmcif_contains_hetatm": true,
+  "mmcif_line_count": 274,
+  "num_atoms": 257,
+  "num_contacts": 9063,
+  "num_ensemble_samples": 3,
+  "num_tokens": 74
+}

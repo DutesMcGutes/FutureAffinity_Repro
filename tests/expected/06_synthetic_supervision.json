@@ -1,0 +1,11 @@
+{
+  "best_energy": -3.613,
+  "energies_sorted_ascending": [
+    -3.613,
+    -2.3625,
+    -1.4082
+  ],
+  "is_sorted_ascending": true,
+  "num_poses_requested": 3,
+  "num_poses_returned": 3
+}
