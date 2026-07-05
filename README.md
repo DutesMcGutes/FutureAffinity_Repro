@@ -77,8 +77,20 @@ python scripts/generate_test_results.py 01_feature_extraction
 | 05 | Multi-task heads | Ready |
 | 06 | Synthetic supervision | Ready |
 | 07 | Inference and export | Ready |
+| 08 | Metrics and why rotation matters | Ready |
 
 Each chapter has its own README with the real walkthrough; this top-level one is just the map.
+
+## Concept notes
+
+Three short explainers on the ideas that separate "read the paper" from "could build it", each
+cross-referenced to the real implementation in `FutureAffinity_PyTorch`:
+
+- [docs/equivariance.md](docs/equivariance.md) — why orientation shouldn't matter, and how
+  centering + augmentation delivers that without equivariant layers.
+- [docs/splits-and-leakage.md](docs/splits-and-leakage.md) — the data lesson that matters most:
+  sequence/scaffold/time splits and why random splits lie.
+- [docs/metrics.md](docs/metrics.md) — what each structure/affinity metric measures and how it fails.
 
 ## Weight policy
 

@@ -24,3 +24,4 @@ brief about using every available signal, not just scarce affinity labels.
 | 05 | Multi-task heads (confidence, contacts, affinity) | Ready |
 | 06 | Synthetic supervision (toy docking) | Ready |
 | 07 | Inference and export | Ready |
+| 08 | Metrics and why rotation matters | Ready |

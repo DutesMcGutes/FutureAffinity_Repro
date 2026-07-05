@@ -20,6 +20,7 @@ CHAPTERS = {
     "05_multitask_heads": "summarize_multitask_heads",
     "06_synthetic_supervision": "summarize_synthetic_supervision",
     "07_inference_and_export": "summarize_inference_and_export",
+    "08_metrics_and_equivariance": "summarize_metrics_and_equivariance",
 }
 
 

@@ -19,6 +19,7 @@ CHAPTER_FUNCTIONS = {
     "05_multitask_heads": "summarize_multitask_heads",
     "06_synthetic_supervision": "summarize_synthetic_supervision",
     "07_inference_and_export": "summarize_inference_and_export",
+    "08_metrics_and_equivariance": "summarize_metrics_and_equivariance",
 }
 
 
@@ -64,6 +65,9 @@ class TutorialTests(unittest.TestCase):
 
     def test_07_inference_and_export_matches_expected(self) -> None:
         self._assert_matches_expected("07_inference_and_export")
+
+    def test_08_metrics_and_equivariance_matches_expected(self) -> None:
+        self._assert_matches_expected("08_metrics_and_equivariance")
 
 
 if __name__ == "__main__":

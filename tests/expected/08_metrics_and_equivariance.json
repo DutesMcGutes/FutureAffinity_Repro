@@ -1,0 +1,9 @@
+{
+  "lddt_invariant_under_rotation": true,
+  "mean_lddt_after_rotation": 100.0,
+  "mean_lddt_identity": 100.0,
+  "naive_mse_after_rotation": 18.5965,
+  "naive_mse_changes_under_rotation": true,
+  "naive_mse_identity": 0.0,
+  "num_atoms": 257
+}
